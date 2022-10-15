@@ -11,6 +11,8 @@
     "format": "prettier --check ./"
   },
   "dependencies": {
+    "@rneui/base": "^4.0.0-rc.6",
+    "@rneui/themed": "^4.0.0-rc.6",
     "eslint": "^8.25.0",
     "eslint-plugin-prettier": "^4.2.1",
     "expo": "~46.0.16",
