@@ -11,6 +11,8 @@
     "format": "prettier --check ./"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^16.1.1",
+    "@react-native-firebase/auth": "^16.1.1",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.1",
     "@rneui/base": "^4.0.0-rc.6",
