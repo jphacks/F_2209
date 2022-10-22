@@ -3,7 +3,7 @@ import { View, ScrollView, StyleSheet } from 'react-native';
 import { Button } from '@rneui/themed';
 
 
-class button extends React.Component {
+class point extends React.Component {
     render() {
         return (
             <>
@@ -24,4 +24,4 @@ class button extends React.Component {
     }
 }
 
-export default button;
+export default point;
